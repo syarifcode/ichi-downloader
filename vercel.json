@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/api/aio",
-      "destination": "https://magma-api.biz.id/download/aio"
-    }
-  ]
-}
